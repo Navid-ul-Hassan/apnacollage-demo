@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Repositry
 <br>
-Author - Naveed.
+Author - Navedd (ul hassan)
